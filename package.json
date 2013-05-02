@@ -1,0 +1,12 @@
+{
+    "name": "collagen-quickstart",
+    "dependencies": {
+        "collagen": "git://github.com/vkareh/collagen.git"
+    },
+    "scripts": {
+        "start": "index.js"
+    },
+    "engines": {
+        "node": "0.8.x"
+    }
+}
